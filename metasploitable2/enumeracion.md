@@ -18,9 +18,25 @@ mediante técnicas de enumeración de red y servicios.
 ## 🔍 Reconocimiento de red
 
 ### Escaneo inicial
+
 ```bash
-nmap -sn 192.168.0.161
+nmap -sn 192.168.0.161 
+```
+### 🧠 Descripción
 
+Este comando realiza un escaneo de descubrimiento de hosts sobre la dirección 192.168.0.161, con el objetivo de verificar si el sistema se encuentra activo en la red, sin analizar puertos ni servicios.
+La opción -sn (scan no port) indica a Nmap que no realice escaneo de puertos, limitándose a enviar paquetes de descubrimiento (ICMP, ARP o TCP) para detectar hosts vivos.
 
- 
+🎯 Uso en pentesting
+Se utiliza como primer paso de reconocimiento, permitiendo conocer qué objetivos están disponibles antes de continuar con una enumeración más profunda.
 
+### Resultado de escaneó 
+
+$ nmap -sn 192.168.0.161
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-02 02:07 -0600
+Nmap scan report for 192.168.0.161
+Host is up (0.035s latency).
+Nmap done: 1 IP address (1 host up) scanned in 0.56 seconds
+
+### 📊 Interpretación
+El host 192.168.0.161 responde correctamente, confirmando que se encuentra activo y accesible en la red, con una latencia aproximada de 35 ms.
