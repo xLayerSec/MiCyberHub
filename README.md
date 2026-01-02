@@ -84,4 +84,23 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 
 ---
 
+## 📈 Progreso
+
+- [x] Laboratorios configurados
+- [ ] Enumeración básica de red y servicios
+- [ ] Explotación de vulnerabilidades web
+- [ ] Post-explotación con Meterpreter
+- [ ] Pivoting y tunneling
+- [ ] Movimiento lateral
+- [ ] Escalada de privilegios
+- [ ] Simulación básica de Red Team
+
+---
+
+## 📜 Aviso legal
+
+Este repositorio **NO contiene ataques a sistemas reales** ni información
+sensible. Todo el contenido se utiliza exclusivamente con fines de aprendizaje
+en ciberseguridad y hackeo ético.
+
 
