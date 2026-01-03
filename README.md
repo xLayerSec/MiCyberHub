@@ -38,39 +38,42 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
    
 **HACKING ETICO**
  
-- Cross-Site Scripting (XSS)
+- Redes para Hacking Ético
  
-- Command Injection
+- Virtualización con VirtualBox
  
-- Explotación de servicios vulnerables
+- Linux para Hacking Ético
  
-- Metasploit Framework y Meterpreter
+- Windows para Hacking Ético
 
-- Post-explotación
+- Docker para Hacking Ético
  
-- Pivoting y tunneling
+- Bases de Datos para Hacking Ético
  
-- Movimiento lateral
+- Nmap para Hacking Ético
  
-- Escalada de privilegios en Linux y Windows
+- Burp Suite Desde Cero
  
-- Introducción a Red Team
+- Metasploit Framework Desde Cero
+
+- Nessus Desde Cero
+  
+- Iniciación al Hacking Ético
+
+- Simulación del Examen de la eJPTv2
+
+
 
 ---
 
 ## 🛠️ Herramientas utilizadas
 
+- Kali Linux
 - Nmap
 - Burp Suite
-- SQLmap
-- OWASP ZAP
 - Metasploit Framework
 - Meterpreter
-- Netcat
-- Hydra
-- Hashcat
-- Proxychains
-- Kali Linux
+
 
 ---
 
@@ -80,21 +83,39 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
  
 - DVWA (Damn Vulnerable Web Application)
  
-- Mutillidae
-
 ---
 
-## 📈 Progreso
+## 📈 Progreso Práctico (FASE ACTIVA)
 
-- [x] Laboratorios configurados
-- [ ] Enumeración básica de red y servicios
-- [ ] Explotación de vulnerabilidades web
-- [ ] Post-explotación con Meterpreter
-- [ ] Pivoting y tunneling
-- [ ] Movimiento lateral
-- [ ] Escalada de privilegios
-- [ ] Simulación básica de Red Team
-
+**🔍 Reconocimiento y Enumeración**
+- [ ] Escaneo de red con Nmap (TCP SYN, versiones, OS)
+- [ ] Enumeración de servicios (FTP, SSH, HTTP, MySQL)
+- [ ] Identificación de versiones vulnerables
+**🌐 Explotación Web**
+- [ ] SQL Injection 
+- [ ] XSS 
+- [ ] Command Injection
+- [ ] File Inclusion (LFI / RFI)
+**💥 Explotación de Servicios**
+- [ ] Explotación en Metasploitable2
+- [ ] Uso de exploits en Metasploit
+- [ ] Obtención de shell inicial
+**🧬 Post-Explotación**
+- [ ] Sesión Meterpreter estable
+- [ ] Enumeración interna
+- [ ] Dump de credenciales
+- [ ] Persistencia básica
+**🔀 Movimiento y Pivoting**
+- [ ] Pivoting con Meterpreter
+- [ ] Port Forwarding
+- [ ] Movimiento lateral entre hosts
+**⬆️ Escalada de Privilegios**
+- [ ] Linux Privilege Escalation
+- [ ] Windows Privilege Escalation
+**🔵 Simulación Red Team**
+- [ ] Ataque completo end-to-end
+- [ ] Documentación tipo reporte
+ 
 ---
 
 ## 📜 Aviso legal
@@ -102,5 +123,3 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 Este repositorio **NO contiene ataques a sistemas reales** ni información
 sensible. Todo el contenido se utiliza exclusivamente con fines de aprendizaje
 en ciberseguridad y hackeo ético.
-
-
