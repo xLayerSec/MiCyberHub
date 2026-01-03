@@ -1,4 +1,4 @@
-# ⚔️ CIBERSEGURIDAD 101
+# ⚔️ Ciberseguridad y privacidad 101
 ## 🛡️ Seguridad de la información Vs Seguridad informática Vs Ciberseguridad
 
 
