@@ -88,9 +88,9 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 ## 📈 Progreso Práctico (FASE ACTIVA)
 
 - **🔍 Reconocimiento y Enumeración**
-- [ ] Escaneo de red con Nmap (TCP SYN, versiones, OS)
-- [ ] Enumeración de servicios (FTP, SSH, HTTP, MySQL)
-- [ ] Identificación de versiones vulnerables
+- [✔] Escaneo de red con Nmap (TCP SYN, versiones, OS)
+- [✔] Enumeración de servicios (FTP, SSH, HTTP, MySQL)
+- [✔] Identificación de versiones vulnerables
 - **🌐 Explotación Web**
 - [ ] SQL Injection 
 - [ ] XSS 
