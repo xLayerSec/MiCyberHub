@@ -122,6 +122,54 @@ informacion. Estas amenazas pueden ser tanto **Fisicas** como **Logicas**.
 
 Es la Probabilidad o Posibilidad  de que una amenaza se materialice y afecte el activo en cuestion aprovechandose de una vulnerabilidad. 
 
+## 🔓 Tipos de vulnerabilidades
+
+- **Vulnerabilidades Naturales**
+
+ Hace referencia a cualquier fallo que pueda provocar una amenaza natural.
+
+- **Vulnerabilidades fisica**
+
+ Fallos que afectan de manera fisica la informacion como un mal cableado, todo lo que sea fisico.  
+
+ - **Vulnerabilidades de software**
+
+ Son defectos en la seguridad de un software ya sea por malas configuraciones un mal diseño o mala implementacion.   
+
+ - **Vulnerabilidades de conexion**
+
+ Son los fallos de comunicacion entre dos o mas activo, falta de cifrado, certificados, etc 
+
+ - **Vulnerabilidades humanas**
+
+ Ataques dirigidos a empleados o usuarios del servicio en cuestion 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+  
+
 
 
 
