@@ -92,29 +92,29 @@ herramientas y metodologías empleadas en auditorías de seguridad profesionales
 - [✔] Enumeración de servicios (FTP, SSH, HTTP, MySQL)
 - [✔] Identificación de versiones vulnerables
 - **🌐 Explotación Web**
-- [ ] SQL Injection 
-- [ ] XSS 
-- [ ] Command Injection
-- [ ] File Inclusion (LFI / RFI)
+- [✔] SQL Injection 
+- [✔] XSS 
+- [✔] Command Injection
+- [✔] File Inclusion (LFI / RFI)
 - **💥 Explotación de Servicios**
-- [ ] Explotación en Metasploitable2
-- [ ] Uso de exploits en Metasploit
-- [ ] Obtención de shell inicial
+- [✔] Explotación en Metasploitable2
+- [✔] Uso de exploits en Metasploit
+- [✔] Obtención de shell inicial
 - **🧬 Post-Explotación**
-- [ ] Sesión Meterpreter estable
-- [ ] Enumeración interna
-- [ ] Dump de credenciales
-- [ ] Persistencia básica
+- [✔] Sesión Meterpreter estable
+- [✔] Enumeración interna
+- [✔] Dump de credenciales
+- [✔] Persistencia básica
 - **🔀 Movimiento y Pivoting**
-- [ ] Pivoting con Meterpreter
-- [ ] Port Forwarding
-- [ ] Movimiento lateral entre hosts
+- [✔] Pivoting con Meterpreter
+- [✔] Port Forwarding
+- [✔] Movimiento lateral entre hosts
 - **⬆️ Escalada de Privilegios**
-- [ ] Linux Privilege Escalation
-- [ ] Windows Privilege Escalation
+- [✔] Linux Privilege Escalation
+- [✔] Windows Privilege Escalation
 - **🔵 Simulación Red Team**
-- [ ] Ataque completo end-to-end
-- [ ] Documentación tipo reporte
+- [✔] Ataque completo end-to-end
+- [✔] Documentación tipo reporte
  
 ---
 
